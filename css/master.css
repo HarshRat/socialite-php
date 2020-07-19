@@ -60,7 +60,21 @@ body {
 }
 
 .button {
-  padding: 10px;
-  font-size: 15px;
+  padding: 5px;
+  font-size: 10px;
   margin: 10px auto;
+  margin-left: 40%;
+}
+
+.input-field-button {
+    margin-left: 15%;
+}
+
+.post-image {
+    max-width: 100%;
+    width: 100%;
+}
+
+.username {
+    color: #125688;
 }
